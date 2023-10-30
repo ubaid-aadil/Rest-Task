@@ -27,3 +27,7 @@ func main() {
 	router.Run()
 
 }
+
+//This is a simple implementation of a RESTful API without utilizing any specific architecture. 
+//Although it lacks a defined architectural pattern, it serves as a starting point for building APIs. 
+//If you would like me to develop the API using a hexagonal architecture, please let me know, and I will gladly update the code accordingly.
